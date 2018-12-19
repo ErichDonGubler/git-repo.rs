@@ -1,0 +1,9 @@
+[package]
+name = "git-repo"
+version = "0.1.0"
+authors = ["Erich Gubler <erichdongubler@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+structopt = "0.2.14"
+clap-verbosity-flag = "0.2.0"
